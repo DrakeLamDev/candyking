@@ -1,1 +1,1 @@
-# candyking
+# candy-king
